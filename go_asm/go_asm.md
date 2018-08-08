@@ -23,7 +23,7 @@ go tool objdump test >[test.asm](github.com/myonlyzzy/post/go_asm/test/test.asm)
 
 gdb test
 
-![屏幕快照 2018-08-07 下午2.53.25](/Users/myonlyzzy/Desktop/屏幕快照 2018-08-07 下午2.53.25.png)
+![屏幕快照 2018-08-07 下午2.53.25](goasm1.png)
 
 我们看到汇编的入口地址位于0x452100,打开test.asm
 
